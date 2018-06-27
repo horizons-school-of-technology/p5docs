@@ -1,13 +1,13 @@
 # p5.js Drawing Functions
 
- * [`game.background()`](p5/drawing.md#gamebackground)
- * [`game.fill()`](p5/drawing.md#gamefill)
- * [`game.stroke()`](p5/drawing.md#gamefill)
- * [`game.line()`](p5/drawing.md#gameline)
- * [`game.rect()`](p5/drawing.md#gamerect)
- * [`game.ellipse()`](p5/drawing.md#gameellipse)
- * [`game.textSize()`](p5/drawing.md#gametextsize)
- * [`game.text()`](p5/drawing.md#gametext)
+ * [`game.background()`](#gamebackground)
+ * [`game.fill()`](#gamefill)
+ * [`game.stroke()`](#gamefill)
+ * [`game.line()`](#gameline)
+ * [`game.rect()`](#gamerect)
+ * [`game.ellipse()`](#gameellipse)
+ * [`game.textSize()`](#gametextsize)
+ * [`game.text()`](#gametext)
 
 -----
 
