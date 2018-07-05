@@ -13,7 +13,7 @@
 Usage:
 
 ```javascript
-game.keyIsDown(key) -> true or false
+game.keyIsDown(key) // returns true or false
 
 if (game.keyIsDown('w')) {
   // do something when the W key is pressed
